@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 <h1 align="center">Hi 👋, I'm Waleed Tahir.</h1>
 <h3 align="center">A passionate MERN stack developer from Pakistan.</h3>
 
